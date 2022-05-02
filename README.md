@@ -34,11 +34,11 @@ ENPH: 2018 (129%, 2018 (81.9%)
 ### What are the advantages or disadvantages of refactoring code?
 
 I'll start with one big advantage - the refacrored code runs faster then te initial code. 
-Initial coderun time was  3.84 sec for 2017 data and 	4.81 sec for 2018. 
+Initial coderun time was  3.84 sec for 2017 data and 	3.86 sec for 2018. 
 Refactored code run time was 0.88 sec	 for both 2018 and 2017. 
 
 ![AllStockAnalysis_2017](https://user-images.githubusercontent.com/103322251/166182590-bf27780b-8e18-4e50-a8e1-14588fafb6d4.png)
-![AllStockAnalysis_2018](https://user-images.githubusercontent.com/103322251/166182605-d70fd3c7-c3a9-4d92-b3b6-510cc1c15eda.png)
+![AllStockAnalysis_2018](https://user-images.githubusercontent.com/103322251/166182905-b04d1842-95fc-43d6-b1ca-64ef40f4425c.png)
 
 
 I think when you edit the already written code, you develop your critical thinking and ettention to deteils. 
